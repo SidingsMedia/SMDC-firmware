@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: Sidings-Media-Railway-Controller
+Upstream-Name: SMRC-firmware
 Upstream-Contact: Matthew Nickson <contact@sidingsmedia.com>
-Source: https://github.com/SidingsMedia/Sidings-Media-Railway-Controller
+Source: https://github.com/SidingsMedia/SMRC-firmware
 
 Files: .github/workflows/*
 Copyright: Copyright (c) 2021 Sidings Media
